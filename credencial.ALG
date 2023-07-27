@@ -15,7 +15,6 @@ escreva ("Digite aqui: ")
 leia (password)
 
 Enquanto (user <> "admin") ou (password <> "admin") faca
-         Limpatela
          Escreva ("Usuário ou senha incorreto! Tente novamente")
          Escreval("")
          
